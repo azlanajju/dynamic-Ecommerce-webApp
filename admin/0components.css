@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.rightContainer{
+    max-width: 78vw !important;
+    height: 100%;
+    margin-left: 22vw;
+    margin-top: 60px;
+    
+}
+.card_images{
+    height: 150px !important;
+    object-fit: cover;
+    border-bottom: 1px solid;
+}
+.card{
+    border: 2px solid rgba(0, 0, 0, 0.5);
+    /* height: 250px; */
+}
